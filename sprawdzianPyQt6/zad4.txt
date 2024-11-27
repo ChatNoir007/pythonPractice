@@ -1,0 +1,5 @@
+4. Wyjaśnij dlaczego po zmianie pierwotnego tekstu w labelu na inny, nowa zawartość w przypadku kiedy jest dłuższa od poprzedniej nie jest poprawnie wyświetlana. Jak to naprawić?
+
+4) Labele mają swoją określoną długość, która jest nadawana długości pierwotnego tekstu. 
+	Aby wpisać wartość, która nie mieści się w tych wymiarach, trzeba zmienić wymiary już ustawione przez tekst pierwotny. 
+	należy dopasować ją metodą adjustSize()

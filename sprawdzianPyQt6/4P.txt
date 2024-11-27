@@ -1,0 +1,9 @@
+1. Stwórz aplikację składającą się z 1 labela i 3 przycisków. Na początku label powinien mieć dowolny tekst, po kliknięciu przycisku dla labela ustawiany jest obrazek (każdy przycisk ustawia inny obrazek, można je przełączać dowolną liczbę razy).
+
+2. Stwórz prosty formularz pozwalający na wpisanie do osobnych pól imienia, nazwiska i klasy. Każde pole powinno mieć placeholder informujący co do niego wpisać. Po zatwierdzeniu przyciskiem wpisane dane są wyświetlane w konsoli.
+
+3. Stwórz aplikację zawierającą checkbox. Po jego włączeniu powinna wyświetlać się informacja, że został włączony, po wyłączeniu - że został wyłączony.
+
+4. Wyjaśnij dlaczego po zmianie pierwotnego tekstu w labelu na inny, nowa zawartość w przypadku kiedy jest dłuższa od poprzedniej nie jest poprawnie wyświetlana. Jak to naprawić?
+
+5. Co robi "super().__init__()" w konstruktorze okna dziedziczącym po klasie QWidget.

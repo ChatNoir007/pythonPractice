@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ee1c8b-5534-4fe1-b6f0-3343f875e568" name="Changes" comment="" />
+    <list default="true" id="62ee1c8b-5534-4fe1-b6f0-3343f875e568" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/4P.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/zad4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sprawdzianPyQt6/zad5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ChatNoir007"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ChatNoir007/pythonPractice.git",
+    "accountId": "cc7962c9-6063-4e74-820e-15ed0e63a566"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2orRHqI5FIDofgiGka3hemQP0sW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,7 +51,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -30,8 +64,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -44,10 +78,23 @@
       <option name="presentableId" value="Default" />
       <updated>1731625622613</updated>
       <workItem from="1731625626665" duration="2000" />
+      <workItem from="1732241226183" duration="117000" />
+      <workItem from="1732742488109" duration="994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
