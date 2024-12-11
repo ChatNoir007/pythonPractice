@@ -1,0 +1,22 @@
+{
+    "Ćwiczenie 1" : "Francisco de Castellvi | Narcisco Vinoles | Walencja 1475",
+
+    "Ćwiczenie 2" : "Giulio Cesare Polerio | Lorenzo | Sora 1580",
+
+    "Ćwiczenie 3" : "Gioachino Greco | NN | 1620",
+
+    "Ćwiczenie 4" : "Morant | Abbe de Feuqieres | Paryż 1680",
+
+    "Ćwiczenie 5" : "Kermur Sire de Legal | Saint Brie | Paryż 1750",
+
+    "Ćwiczenie 6" : "Thomas Bowdler | Henry Conway | Londyn 1788",
+
+    "Ćwiczenie 7" : "Francois Philidor | Cotter | Londyn 1789",
+
+    "Ćwiczenie 8" :  "George Atwood | Campbell | Londyn 1798",
+
+    "Ćwiczenie 9" : "William Lewis | Parkinson | Anglia 1813",
+
+    "Ćwiczenie 10" :  "Jacob Sarratt | NN | Londyn 1818"
+
+}
