@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.menubar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -81,7 +82,8 @@
       <workItem from="1731625626665" duration="2000" />
       <workItem from="1732241226183" duration="117000" />
       <workItem from="1732742488109" duration="1976000" />
-      <workItem from="1733923257261" duration="1981000" />
+      <workItem from="1733923257261" duration="2600000" />
+      <workItem from="1734336308003" duration="603000" />
     </task>
     <servers />
   </component>
@@ -100,6 +102,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonPractice$menubar.coverage" NAME="menubar Coverage Results" MODIFIED="1734336775339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/menu_bar" />
     <SUITE FILE_PATH="coverage/pythonPractice$main.coverage" NAME="main Coverage Results" MODIFIED="1733926013418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/odczyt_combo" />
   </component>
 </project>
