@@ -1,0 +1,1 @@
+{"Kapricioza": {"name": "Kapricioza", "size": 30, "price": 40}, "Margerita": {"name": "Margerita", "size": 20, "price": 10}, "Bolonieze": {"name": "Bolonieze", "size": 50, "price": 60}, "smaczna": {"name": "smaczna", "size": 90, "price": 210}, "niedobra": {"name": "niedobra", "size": 120, "price": 10}, "zabawna": {"name": "zabawna", "size": 12, "price": 10}}
