@@ -53,17 +53,15 @@ class Window(QDialog):
         pizza1 = self.combo1.currentText()
         pizza2 = self.combo2.currentText()
 
-
-
         pricePerCm1 = round(self.loading[pizza1]['price'] / (math.pi * (self.loading[pizza1]['size']/2) **2), 4)
         pricePerCm2 = round(self.loading[pizza2]['price'] / (math.pi * (self.loading[pizza2]['size']/2) **2), 4)
 
         if pricePerCm1 > pricePerCm2:
-            self.porownanie.setText(f"Bardziej opłaca się pizza prawa ({pricePerCm1} zł/cm² vs {pricePerCm2} zł/cm²)")
+            self.porownanie.setText(f"bardziej opłaca się pitca prawa ({pricePerCm1} zł/cm² vs {pricePerCm2} zł/cm²)")
         elif pricePerCm1 < pricePerCm2:
-            self.porownanie.setText(f"Bardziej opłaca się pizza lewa ({pricePerCm1} zł/cm² vs {pricePerCm2} zł/cm²)")
+            self.porownanie.setText(f"bardziej opłaca się pitca lewa ({pricePerCm1} zł/cm² vs {pricePerCm2} zł/cm²)")
         elif pricePerCm1 == pricePerCm2:
-            self.porownanie.setText(f"Obie pizze są tak samo opłacalne ({pricePerCm1} zł/cm²)")
+            self.porownanie.setText(f"obie pitce są tak samo opłacalne ({pricePerCm1} zł/cm²)")
         else:
             self.porownanie.setText("źle dobrano pitce")
 
