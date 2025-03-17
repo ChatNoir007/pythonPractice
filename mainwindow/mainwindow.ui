@@ -109,6 +109,7 @@
      <string>Funkcje</string>
     </property>
     <addaction name="actionLiniowa"/>
+    <addaction name="actionKwadratowa"/>
    </widget>
    <addaction name="menuFunkcja"/>
   </widget>
@@ -116,6 +117,11 @@
   <action name="actionLiniowa">
    <property name="text">
     <string>Liniowa</string>
+   </property>
+  </action>
+  <action name="actionKwadratowa">
+   <property name="text">
+    <string>Kwadratowa</string>
    </property>
   </action>
  </widget>
